@@ -1,1 +1,1 @@
-# .github
+Description of the LibreLunch organization.
